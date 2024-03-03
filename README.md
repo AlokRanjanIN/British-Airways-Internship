@@ -23,11 +23,13 @@ For the second task, I developed a predictive model to understand the factors in
 │   └── review_analysis.ipynb    # Jupyter notebook for review analysis
 │   └── report.pdf               # Report for review analysis
 │   └── README                   # README for review analysis
+
 ├── Task2 /                      # Directory for storing data files
 │   ├── customer_booking.csv     # Dataset containing customer booking data
 │   └── booking_prediction.ipynb # Jupyter notebook for predictive modeling
 │   └── report.pdf               # Report for predictive modeling
 │   └── README                   # README for predictive modeling
+
 ├── LICENSE                      # License file
 ├── README                       # Main README file
 ```
@@ -38,11 +40,11 @@ For the second task, I developed a predictive model to understand the factors in
 
 2. Navigate to the project directory.
 
-3. Explore the notebooks in the `Task1/` and `Task2/` directories for detailed analysis and modeling steps.
+3. Explore the notebooks in the Task directories for detailed analysis and modeling steps.
 
-4. Access the datasets in the respective directories for conducting your own analysis.
+4. Access the datasets in the directories for conducting your own analysis.
 
-5. Refer to the reports in the `Task1/` and `Task2/` directories for insights and findings from each task.
+5. Refer to the reports in the Task directories for insights and findings from each task.
 
 ## License
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en)
